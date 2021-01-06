@@ -8,7 +8,7 @@ It contains the training data with flight details as described in the last secti
 
 
 Data Dictionary -<br>
-<b>Variable</b> 	         Description
+<b>Variable</b> 	         Description<br>
 <b>Airline</b> 	       The name of the airline<br>
 <b>source</b> 	         The date of the journey<br>
 <b>Destination</b> 	   The destination where the service ends.<br>
