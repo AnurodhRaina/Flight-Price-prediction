@@ -9,7 +9,7 @@ It contains the training data with flight details as described in the last secti
 
 Data Dictionary -
 Variable 	         Description
-Airline 	       The name of the airline
+Airline 	       The name of the airline<br>
 source 	         The date of the journey
 Destination 	   The destination where the service ends.
 Route 	         The route taken by the flight to reach the destination.
