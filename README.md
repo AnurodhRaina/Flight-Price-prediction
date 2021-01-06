@@ -28,6 +28,7 @@ It has flight details for checking the accuracy of the model on unseen data <br>
 Evaluation Metric - <br>
 Model was evaluated using the following metric(RMSE) between the predicted price(y_pred) and the observed price(y_true).: <br>
 -np.sqrt(np.square(np.log10(y_pred +1) - np.log10(y_true +1)).mean()) <br>
+<b>Note:</b> The metric is a minimizing metric(i.e. lower the score, better the model) To counter that, we have added a - sign when calculating the score, thus inverting your final score(higher the score, better the model). This also means that your metric will only have values in the negative range, don't be puzzled by it
 
 Steps followed in this project -<br>
 1. Loading and observing the data for any anomaly <br>
