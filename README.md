@@ -1,5 +1,5 @@
 # Flight-Price-prediction
-<b><ul><h2>Predicting the fares of domestic flights across india</h2></ul></b><br><br>
+<b><u><h2>Predicting the fares of domestic flights across india</h2></u></b><br><br>
 
 <u>Data Description</u><br>
 
